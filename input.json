@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "Dow futures are little changed after index notches worst day in more than a year, jobs report looms: Live updates - CNBC",
+            "description": "The Dow clinched its biggest daily loss since March 2023 after the market turned midday.",
+            "url": "https://www.cnbc.com/2024/04/04/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107380407-1709220694045-gettyimages-2048151009-_s1_0013_k1qwrf18.jpeg?v=1712270165&w=1920&h=1080",
+            "publishedAt": "2024-04-04T22:04:00Z",
+            "content": "Futures tied to the Dow Jones Industrial Average sat near flat Thursday night following the index's worst session in over a year. Investors also awaited key labor data due Friday morning.\r\nDow future… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Scott Nover",
+            "title": "Elon Musk realized he created a badge of shame with blue checks on X. - Slate",
+            "description": "Now he's trying to walk back his mistake.",
+            "url": "https://slate.com/technology/2024/04/elon-musk-blue-checks-x-twitter-badge-of-shame.html",
+            "urlToImage": "https://compote.slate.com/images/0a45e566-92a5-4c5c-92ff-b5c89c7b75cb.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2024-04-04T21:48:00Z",
+            "content": "In 2022, when Elon Musk campaigned to buy Twitterbefore he realized he would be massively overpaying and went to court to get out of the deal he himself proposed, before he admitted defeat and took o… [+5918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Elon Musk boosting pay of AI engineers to prevent poaching from OpenAI - Fox Business",
+            "description": "Tesla CEO Elon Musk said the electric vehicle maker is raising the compensation of its artificial intelligence engineers due to OpenAI \"aggressively recruiting\" them.",
+            "url": "https://www.foxbusiness.com/technology/elon-musk-boosting-pay-ai-engineers-prevent-poaching-openai",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/elon-musk-1.jpg?ve=1&tl=1",
+            "publishedAt": "2024-04-04T21:19:00Z",
+            "content": "Tesla CEO Elon Musk said the electric vehicle giant is giving its artificial intelligence engineers a raise as the automaker tries to fend off poaching efforts by ChatGPT creator OpenAI.\r\nThe tech bi… [+2771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Boeing pays Alaska Air more than $160m after blowout - BBC.com",
+            "description": "The sum to the airline for losses since January reflects the ongoing fallout to Boeing from the crisis.",
+            "url": "https://www.bbc.com/news/business-68737292",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8672/production/_133081443_whatsubject.jpg",
+            "publishedAt": "2024-04-04T21:18:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Why Crude Oil Prices Are Spiking Today - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/crude-oil-wti-brent-price-news-today-8abfc8aa",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T20:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Paramount stock drops after buyout rumors: 'The worst time in the world to sell' - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/news/paramount-stock-drops-after-buyout-rumors-the-worst-time-in-the-world-to-sell-191703124.html",
+            "urlToImage": null,
+            "publishedAt": "2024-04-04T20:08:20Z",
+            "content": "If you click 'Accept all', we and our partners (including 240 who are part of the IAB Transparency &amp; Consent Framework) will also use cookies and your personal data, such as IP address, precise l… [+686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "California fast food workers stunned as restaurant closes without warning over $20 minimum wage: 'Only the beginning' - New York Post ",
+            "description": "Another California small business and its workers have seemingly suffered at the hands of the state’s newly enacted $20 minimum wage.",
+            "url": "https://nypost.com/2024/04/04/business/california-minimum-wage-shocks-fast-food-workers-as-restaurant-closes-only-the-beginning/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/miami-beach-florida-veterans-day-79485020.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-04T20:08:00Z",
+            "content": "Another California small business and its workers have seemingly suffered at the hands of the states newly enacted $20 minimum wage.\r\n“It’s a shock,” Monica Navarro, former assistant general manager … [+3019 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STAT"
+            },
+            "author": "Allison DeAngelis",
+            "title": "Amylyx to pull ALS drug from market, cut 70% of staff - STAT",
+            "description": "Amylyx Pharmaceuticals will take its ALS drug off the market in the U.S. and Canada, ending a multi-year saga for patients with the disease.",
+            "url": "https://www.statnews.com/2024/04/04/amylyx-to-pull-als-drug-relyvrio-from-market/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2020/09/Amylyx_04-1024x576.jpg",
+            "publishedAt": "2024-04-04T20:01:58Z",
+            "content": "Amylyx Pharmaceuticals will take its ALS drug Relyvrio off the market in the U.S. and Canada, ending a multi-year saga for patients with the rare neurodegenerative disease.\r\nRelyvrio was approved by … [+615 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joe Miller",
+            "title": "British billionaire Joe Lewis avoids US prison in insider trading case - Financial Times",
+            "description": "Businessman whose family owns Tottenham Hotspur football club had pleaded guilty to tipping off friends, private pilots and a girlfriend",
+            "url": "https://www.ft.com/content/00ea0949-135c-4604-8ca7-067bc4fc1072",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F39520856-553e-4777-81d6-dc2f645346a3.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-04-04T19:50:20Z",
+            "content": "Joe Lewis, the British billionaire whose family owns Tottenham Hotspur football club, will avoid being sent to prison for insider trading, after a federal judge in Manhattan agreed on Thursday to sen… [+3406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Carl Campanile, Emily Crane",
+            "title": "NY Gov. Kathy Hochul orders MTA to stand down over NYC Marathon $750K toll fight after Post report on 'cash grab' move - New York Post ",
+            "description": "“I’ve directed the MTA to fix this mess and allow the marathon to move forward as it always has,” Hochul said after The Post highlighted outrage over the MTA’s cash grab.",
+            "url": "https://nypost.com/2024/04/04/us-news/hochul-orders-mta-to-stand-down-over-nyc-marathon-750k-toll-fight/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-9wym4kw4a-1712261372988.jpg?quality=75&strip=all&1712247138&w=1024",
+            "publishedAt": "2024-04-04T19:49:00Z",
+            "content": "Stand down — and fix this mess! \r\nGov. Kathy Hochul on Thursday nixed the Metropolitan Transportation Authority’s efforts to squeeze a $750,000 toll from the organizers of the New York City Marathon … [+5138 chars]"
+        }
+    ]
+}
